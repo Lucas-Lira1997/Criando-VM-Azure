@@ -2,13 +2,13 @@
 Guia para criação de máquina virtual (VM) utilizando o Microsoft Azure
 
 ## **Sumário**
-1. [Primeiros passos](https://github.com/Lucas-Lira1997/Criando-VM-Azure/edit/main/README.md#1-primeiros-passos)
-2. [Detalhes do projeto](https://github.com/Lucas-Lira1997/Criando-VM-Azure/edit/main/README.md#2-detalhes-do-projeto)
-3. [Detalhes da instância](https://github.com/Lucas-Lira1997/Criando-VM-Azure/edit/main/README.md#3-detalhes-da-inst%C3%A2ncia)
-4. [Conta de administrador](https://github.com/Lucas-Lira1997/Criando-VM-Azure/edit/main/README.md#4-conta-de-administrador)
-5. [Regras de portas de entrada](https://github.com/Lucas-Lira1997/Criando-VM-Azure/edit/main/README.md#5-regras-de-portas-de-entrada)
-6. [Marcas](https://github.com/Lucas-Lira1997/Criando-VM-Azure/edit/main/README.md#6-marcas)
-7. [Revisar + Criar](https://github.com/Lucas-Lira1997/Criando-VM-Azure/edit/main/README.md#7-revisar--criar)
+1. **Primeiros passos**
+2. **Detalhes do projeto**
+3. **Detalhes da instância**
+4. **Conta de administrador**
+5. **Regras de portas de entrada**
+6. **Marcas**
+7. **Revisar + Criar**
 
 ## 1. **Primeiros passos**
 - Após o cadastro no site [Microsoft Azure](https://azure.microsoft.com/pt-br/pricing/purchase-options/azure-account), iremos pesquisar na barra de pesquisa por *máquinas virtuais*.
